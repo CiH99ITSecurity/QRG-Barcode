@@ -1,4 +1,5 @@
 ![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/QRG-Barcode/refs/heads/main/QRGBarcode.png)
+
 README for the QRG
 ===========================
 QRG is QR Reader & Generator Barcode. You can easily save your generated Barcode or QR on your desktop by pressing save button.
