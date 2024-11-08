@@ -7,6 +7,7 @@ QRG is QR Reader & Generator Barcode. You can easily save your generated Barcode
 Links:
 ======
 Programmer: Haider D. Abd .. https://www.youtube.com/@hdatechtips
+
 CiH99 IT Security .......... https://www.cih99.com
 
 Video
